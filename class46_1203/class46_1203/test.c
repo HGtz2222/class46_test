@@ -5,6 +5,10 @@
 // 1. ´ò¶Ïµã
 // 2. F5
 
+void Add4() {
+
+}
+
 int Add3(int x, int y) {
 	return x + y;
 }
